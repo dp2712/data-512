@@ -22,4 +22,4 @@ pagecount_all_views = the number of pagecounts from the legacy API of users usin
 
 
 
-### Known Issues: One known issue is that the different data sources and APIs have variable amount of data coverage. As such, we have an incomplete picture of usage in the desired time range. Another consideration to make is that the Pageview API excludes spiders/crawlers from the data that the Pagecounts API does not explicitly exclude.
+### Known Issues:  One known issue and consideration to make is that the Pageview API excludes spiders/crawlers from the data that the Pagecounts API does not explicitly exclude.
