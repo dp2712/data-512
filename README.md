@@ -1,5 +1,5 @@
 # data-512
-### The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 to August 30 2020. Through the process of creating this dataset and perfoming the analysis, we will learn the best practices for data curation with the ultimate object being providing reproducible analysis and research.
+The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 to August 30 2020. Through the process of creating this dataset and perfoming the analysis, we will learn the best practices for data curation with the ultimate object being providing reproducible analysis and research.
 
 The data is acquired from APIs provided by Wikimedia through 2 endpoints: 1. a legacy pagecounts API endpoint and 2. a pageviews API endpoint.
 
@@ -22,4 +22,4 @@ pagecount_all_views = the number of pagecounts from the legacy API of users usin
 
 
 
-### Known Issues:  One known issue and consideration to make is that the Pageview API excludes spiders/crawlers from the data that the Pagecounts API does not explicitly exclude.
+Known Issues:  One known issue and consideration to make is that the Pageview API excludes spiders/crawlers from the data that the Pagecounts API does not explicitly exclude.
