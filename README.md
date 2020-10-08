@@ -1,5 +1,5 @@
 # data-512
-### The goal of this project is to "construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 to August 30 2020". Through the process of creating this dataset and perfomring the analysis, we will learn the best practices for data curation with the ultimate object being providing reproducible analysis and research.
+### The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 to August 30 2020. Through the process of creating this dataset and perfoming the analysis, we will learn the best practices for data curation with the ultimate object being providing reproducible analysis and research.
 
 The data is acquired from APIs provided by Wikimedia through 2 endpoints: 1. a legacy pagecounts API endpoint and 2. a pageviews API endpoint.
 
