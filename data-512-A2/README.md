@@ -1,7 +1,9 @@
 <h1> Assigment A2 : Bias in Data</h1>
 
 <h3>The objective of this analysis to determine whether the Wikipedia Talk corpus contains bias or the characteristics of that bias and highlight its potential consequences</h3>
-Data source link - https://figshare.com/projects/Wikipedia_Talk/16731 
+Data source link (Figshare datasets) - https://figshare.com/projects/Wikipedia_Talk/16731 
+Detox wiki page - https://meta.wikimedia.org/wiki/Research:Detox
+Perspective API repository on GitHub - https://conversationai.github.io/
 For the purpose of this analysis, I have only utilized Aggression Datasets
 
 <h3> EDA included investigating following questions:</h3>
@@ -18,4 +20,4 @@ For the purpose of this analysis, I have only utilized Aggression Datasets
     <li>When combining both age group and forst language, we can clearly observe that first language plays a major role in extreme age buckets 'Under 18' and 'Over 60'. The Mean aggression score for these groups are very different on the basis of their first language</li>
     </ul>
     
-
+<h3> Implications> </h3>
