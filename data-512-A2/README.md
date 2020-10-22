@@ -25,3 +25,11 @@ For the purpose of this analysis, I have only utilized Aggression Datasets
     </ul>
     
 <h3> Implications> </h3>
+Potential bias introduced by the inaccurate sampling of crowdworkers which are not representation of true population can introduce a lot of bias into the system. Skewed annotator population i.e. demographics of crowd-workers might impact rating due to bias in political, gender, age or sexual orientation. Also, Topic biasing in the data - if all examples of a particular topic were rated as toxic by crowd-workers, the trained model will always consider comments related to that topic biased. This type of bias would be especially likely for controversial topics. Moreover the model will not performe well when- 
+<ul>
+<li>When language is not English -  The dataset is based on English language, hence any model trained on this data cannot be applied to other languages. This is a very big limitation as only less than 5% of the world population has English as their native language.</li>
+
+<li>Identifying the sentiment of the user - As the dataset is customised to identify aggression, the model based on this data may not perform very well in identifying the sentiment of a comment, i.e whether the comment is in favour or against the premises. For example, a sports team may want to identify whether the user commenting on their website is a fan of their team or not. Since fans can be aggressive both while defending or attacking the team, the model based on this data may not be able to make that distinction. </li>
+
+<li>Identifying virality and controversial nature - Many of the NLP models used in media are focussed on identifying the topics which are controversial or have the potential to become viral. This dataset does not have enough depth to support these use cases. </li>
+ </ul>
