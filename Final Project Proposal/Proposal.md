@@ -6,4 +6,4 @@ I am planning to analyze the Employement Occupation data from year 2013 to year 
 
 
 <h3> Data source: </h3> 
-Whttps://datausa.io/api/dataGeography=16000US5363000&measure=Workforce%20by%20Occupation%20and%20Gender,Workforce%20by%20Occupation%20and%20Gender%20Moe&drilldowns=Occupation&parents=true&debug=true 
+https://datausa.io/api/data?Geography=16000US5363000&measure=Workforce%20by%20Occupation%20and%20Gender,Workforce%20by%20Occupation%20and%20Gender%20Moe&drilldowns=Occupation&parents=true&debug=true 
