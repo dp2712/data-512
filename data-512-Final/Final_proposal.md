@@ -17,7 +17,7 @@ Procuring patient data of COVID-19 patients containing patient-specific informat
 Some of the questions I want to answer from this datset are - 
 <ul>
 <li> <i><b>Question - </i></b> How did different age group of people get impact by COVID according to their medical history?</li>
-  <ul> <i>Hypothesis - </i></ul> People above 60 years of age and severe health conditions are more prone to death by Covid than people with younger age and severe disease conditions
+  <ul> <i>Hypothesis - </i> People above 60 years of age and severe health conditions are more prone to death by Covid than people with younger age and severe disease conditions </ul>
 <li><i><b>Question - </i></b> How their medical history played a role in severity of COVID?</li>
   <ul> <i>Hypothesis -</i> People with diseases such as diabetes and high blood pressure show symptoms earlier and have higher chances of death  </ul> 
 <li><i><b>Question - </i></b> Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
