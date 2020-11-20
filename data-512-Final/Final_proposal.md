@@ -23,4 +23,8 @@ Some of the questions I want to answer from this datset are -
 </ul>
 
 
+<h2> <i>Background / Related work</i></h2> 
+
+<h2> <i>Methodology</i></h2> 
+
 <i><h4>Ethical considerations of dataset</h4> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization </i>
