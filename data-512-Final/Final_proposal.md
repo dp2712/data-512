@@ -33,7 +33,7 @@ This article summarizez it well for mexico - https://www.aa.com.tr/en/latest-on-
 
 <h2> <i>Methodology</i></h2> 
 
-<h4><b>Step 1 - </h4></b> Performing the exploratory data analysis to understand the trends and distribution of time between 'date admitted to hospital' and 'date of death' for Age groups and Gender according to medical history of. I will then try to investigate how these different age groups and gender had different death ratios due to COVID-19 
+<h4><b>Step 1 - </h4></b> Performing the exploratory data analysis to understand the trends and distribution of time between 'date admitted to hospital' and 'date of death' for Age groups and Gender according to medical history of patients. I will then try to investigate how these different age groups and gender had different death ratios due to COVID-19 
 
 <h4><b>Step 2 - </h4></b> I will further also build a linear regression model to understand the role of age, gender and historical diseases impacting in death due to COVID-19. This will highlight is certain medical history has higher chances of causing a death in patient if infected with COVID-19
 
