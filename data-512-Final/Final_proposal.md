@@ -4,7 +4,7 @@ During the entire course of the pandemic, one of the main problems that healthca
 Hence, I would like to explore how COVID-19 severity is related to Patients Medical History procuring patient data of COVID-19 containing specific information regarding patient's history. The dataset was released by the Mexican government which contains a huge number of anonymised patient-related information.
 
 <h2> <i>Dataset information</i></h2> 
-This dataset contains information on almost 5M patients admitted to hospital in the month of June 2020 and contains attributes such as anonymised patient's ID, gender, date of entry to hospital, date of first symptoms, date of death if applicable, flags on various disease history
+This dataset that has been open for the general public by the Mexican Government (and updated daily). These data include information about every person who has been tested for SARS-CoV-2 in Mexico. They include demographic information such as: Age, Location, Nationality, the use of an indigenous language; as well as information on pre-existing conditions, including whether the patient has: diabetes, chronic obstructive pulmonary disease (COPD), asthma, immunosuppression, hypertension, obesity, pregnancy, chronic renal failure, other prior diseases, and whether was or is using tobacco
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
 
