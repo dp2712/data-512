@@ -8,16 +8,17 @@ This dataset that has been open for the general public by the Mexican Government
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Cleaned Dataset Link :</h4> https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
+This dataset is appropriate for my analysis as it contains all relevant information related to the problem statement I wish to explore such as - 
 
-
-<h2> <i>Dataset limitations / Unknowns </i></h2> 
-Procuring patient data of COVID-19 patients containing patient-specific information regarding patient history and habits is extremely hard. This is mainly due to the regulatory security laws such as HIPAA and GDPR which makes it almost impossible for anyone to get hands-on PHI data. The dataset was released by the Mexican government which contains a huge number of anonymised patient-related information and is appropriate because I wish to explore questions such as - 
 <ul>
 <li>How did different age group of people get impact by COVID according to their medical history?</li>
 <li>How their medical history played a role in severity of COVID?</li>
 <li>Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
 <li>Can we find a pattern in the data to help us decide on the factors which can later be proven helpful in predicting the cases?</li>
 </ul>
+
+<h2> <i>Dataset limitations / Unknowns </i></h2> 
+Procuring patient data of COVID-19 patients containing patient-specific information regarding patient history and habits is extremely hard. This is mainly due to the regulatory security laws such as HIPAA and GDPR which makes it almost impossible for anyone to get hands-on PHI data. The dataset was released by the Mexican government which contains a huge number of anonymised patient-related information.
 
 
 
