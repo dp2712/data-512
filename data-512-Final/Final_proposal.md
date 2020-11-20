@@ -13,7 +13,7 @@ This dataset contains anonymised patient's ID, gender, date of entry to hospital
 Some of the questions I want to answer from this datset are - 
 <ul>
 <li>How did different age group of people get impact by COVID according to their medical history?</li>
-  <li> Hypothesis </li>
+  <ul> Hypothesis </ul>
 <li>How their medical history played a role in severity of COVID?</li>
 <li>Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
 <li>Can we find a pattern in the data to help us decide on the factors which can later be proven helpful in predicting the cases?</li>
