@@ -19,11 +19,11 @@ Some of the questions I want to answer from this datset are -
 <li> <i><b>Question - </i></b> How did different age group of people get impact by COVID according to their medical history?</li>
   <ul> <i>Hypothesis - </i></ul> People above 60 years of age and severe health conditions are more prone to death by Covid than people with younger age and severe disease conditions
 <li><i><b>Question - </i></b> How their medical history played a role in severity of COVID?</li>
-   <ul> <i>Hypothesis - </i> People with diseases such as diabetes and high blood pressure show symptoms earlier and have higher chances of death
+  <ul> <i>Hypothesis -</i> People with diseases such as diabetes and high blood pressure show symptoms earlier and have higher chances of death  </ul> 
 <li><i><b>Question - </i></b> Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
-   <ul> <i>Hypothesis - </i></ul> Disease that directly impact immune systems and respiratory systems have higher death ratio than other diseases 
+   <ul> <i>Hypothesis - </i> Disease that directly impact immune systems and respiratory systems have higher death ratio than other diseases </ul> 
 <li><i><b>Question - </i></b> Can we find a pattern in the data to help us decide on the factors which can later be proven helpful in predicting the cases?</li>
-   <ul> <i>Hypothesis - </i></ul>  Age, gender , type of medical history can be strong predictors of propensity of death from Covid or requirement of Intubation
+   <ul> <i>Hypothesis - </i> Age, gender , type of medical history can be strong predictors of propensity of death from Covid or requirement of Intubation </ul> 
 </ul> 
 
 
