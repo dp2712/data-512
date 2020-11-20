@@ -4,7 +4,7 @@ During the entire course of the pandemic, one of the main problems that healthca
 They have been in the dark failing to understand how much resource they could even in the very next week as the COVID-19 curve has swayed very unpredictably. In these tough times, being able to predict what kind of resource an individual might require at the time of being tested positive or even before that will be of great help to the authorities as they would be able to procure and arrange for the resources necessary to save the life of that patient. Hence, I would like to explore how COVID-19 severity is related to Patients Medical History procuring patient data of COVID-19 containing specific information regarding patient's history. The dataset was released by the Mexican government which contains a huge number of anonymised patient-related information.
 
 <h2> <i>Dataset information</i></h2> 
-This dataset contains anonymised patient's ID, gender, date of entry to hospital, date of first symptoms, date of death if applicable, flags on various disease history
+This dataset contains information on almost 5M patients admitted to hospital in the month of June 2020 and contains attributes such as anonymised patient's ID, gender, date of entry to hospital, date of first symptoms, date of death if applicable, flags on various disease history
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
 
