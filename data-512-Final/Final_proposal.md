@@ -16,13 +16,13 @@ Procuring patient data of COVID-19 patients containing patient-specific informat
 
 Some of the questions I want to answer from this datset are - 
 <ul>
-<li> <i><b>Question - </i></b> How did different age group of people get impact by COVID according to their medical history?</li>
+<li> <i><b>Question 1 - </i></b> How did different age group of people get impact by COVID according to their medical history?</li>
   <ul> <i>Hypothesis - </i> People above 60 years of age and severe health conditions are more prone to death by Covid than people with younger age and severe disease conditions </ul>
-<li><i><b>Question - </i></b> How their medical history played a role in severity of COVID?</li>
+<li><i><b>Question 2 - </i></b> How their medical history played a role in severity of COVID?</li>
   <ul> <i>Hypothesis -</i> People with diseases such as diabetes and high blood pressure show symptoms earlier and have higher chances of death  </ul> 
-<li><i><b>Question - </i></b> Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
+<li><i><b>Question 3 - </i></b> Is there one particular disease history that is proving to be deadlier or severe than any other?</li>
    <ul> <i>Hypothesis - </i> Disease that directly impact immune systems and respiratory systems have higher death ratio than other diseases </ul> 
-<li><i><b>Question - </i></b> Can we find a pattern in the data to help us decide on the factors which can later be proven helpful in predicting the cases?</li>
+<li><i><b>Question 4 - </i></b> Can we find a pattern in the data to help us decide on the factors which can later be proven helpful in predicting the cases?</li>
    <ul> <i>Hypothesis - </i> Age, gender , type of medical history can be strong predictors of propensity of death from Covid or requirement of Intubation </ul> 
 </ul> 
 
@@ -32,5 +32,9 @@ Health organozatins have been in the dark failing to understand how much resourc
 This article summarizez it well for mexico - https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/pandemic-reveals-mexicos-social-economic-disparities/2002155
 
 <h2> <i>Methodology</i></h2> 
+
+<h4><b>Step 1 - </h4></b> Performing the exploratory data analysis to understand the trends and distribution of Age, gender according to medical history of patients, I will then try to investigate how this distribution had different death ratios due to COVID-19 
+
+<h4><b>Step 2 - </h4></b> Building alinear regression model to understand the role of age, gender and historical diseases impacting in death due to COVID-19
 
 <i><h4>Ethical considerations of dataset</h4> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization </i>
