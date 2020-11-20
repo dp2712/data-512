@@ -8,7 +8,7 @@ This dataset contains anonymised patient's ID, gender, date of entry to hospital
 <h4>Dataset Source :</h4>https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Dataset License :</h4>https://creativecommons.org/publicdomain/zero/1.0/ 
 
-<h2> Research questions and hypothsis </h2>
+<h2> Research questions and hypotheses </h2>
 
 Some of the questions I want to answer from this datset are - 
 <ul>
@@ -23,4 +23,4 @@ Some of the questions I want to answer from this datset are -
 </ul>
 
 
-<h4>Ethical considerations of dataset</h4> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization 
+<i><h2>Ethical considerations of dataset</h2> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization </i>
