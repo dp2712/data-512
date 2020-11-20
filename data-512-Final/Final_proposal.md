@@ -6,6 +6,7 @@ Hence, I would like to explore how COVID-19 severity is related to Patients Medi
 <h2> <i>Dataset information</i></h2> 
 This dataset contains information on almost 5M patients admitted to hospital in the month of June 2020 and contains attributes such as anonymised patient's ID, gender, date of entry to hospital, date of first symptoms, date of death if applicable, flags on various disease history
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
+<h4>Dataset Link : </h4> https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
 
 
@@ -35,6 +36,6 @@ This article summarizez it well for mexico - https://www.aa.com.tr/en/latest-on-
 
 <h4><b>Step 1 - </h4></b> Performing the exploratory data analysis to understand the trends and distribution of time between 'date admitted to hospital' and 'date of death' for Age groups and Gender according to medical history of patients. I will then try to investigate how these different age groups and gender had different death ratios due to COVID-19 
 
-<h4><b>Step 2 - </h4></b> I will further also build a linear regression model to understand the role of age, gender and historical diseases impacting in death due to COVID-19. This will highlight is certain medical history has higher chances of causing a death in patient if infected with COVID-19
+<h4><b>Step 2 - </h4></b> I will further also build a linear regression model to understand the role of age, gender and historical diseases impacting in death due to COVID-19. This will highlight if certain medical history has higher chances of causing a death in patient if infected with COVID-19
 
 <i><h2>Ethical considerations of dataset</h2> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization </i>
