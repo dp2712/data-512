@@ -4,7 +4,7 @@ Hence, I would like to explore how COVID-19 severity is related to Patients Medi
 
 
 <h2> <i>Dataset information</i></h2> 
-This dataset is published by Mexican governement and updated on the daily basis. These data include information about COVID-19 patients in Mexico and includes demographic information such as Age, Gender as well as information on patient's medical history such whether the patient has: diabetes, chronic obstructive pulmonary disease (COPD), asthma, immunosuppression, hypertension, obesity, pregnancy, chronic renal failure, other prior diseases, and whether was or is using tobacco. <b>This dataset is published in Spanish language and due to time constraints and lack of Spanish language knowledge, I will be utilizing the dataset that was translated, cleaned and published as a Kaggle dataset. The links to Raw Datasource, Cleaned Dataset and Dataset License are below</b> - 
+This dataset is published by Mexican governement and updated on the daily basis. The data includes details about COVID-19 patients in Mexico and contains information such as Age, Gender, data of first covid symptom, date of entry to the hospital, patient's medical history, and whether patient died or recovered. <b> This dataset is published in Spanish language and due to time constraints and lack of Spanish language knowledge, I will be utilizing the dataset that was translated, cleand and published as a Kaggle dataset under the name <i>'COVID-19 patient pre-condition dataset'</i>. The links to Raw Datasource, Cleaned Dataset and Dataset License are below - </b> 
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Cleaned Dataset Link :</h4> https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
@@ -30,10 +30,10 @@ Some of the questions I want to answer from this datset are -
 
 
 <h2> <i>Background / Related work</i></h2> 
-ventilator.
-A health crisis of massive proportion such as the current COVID-19 pandemic provides us with an opportunity to ponder and reflect over what we can better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.
-During the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.
-This article summarizes the condition Mexixo is facing very well - https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/pandemic-reveals-mexicos-social-economic-disparities/2002155
+
+This article summarizes the condition Mexico government is facing very well - https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/pandemic-reveals-mexicos-social-economic-disparities/2002155 and though there are multiple prediction models which have been made on the dataset to predict if patients with certain pre-conditions are more susceptible to death due to covid, I wish to use this datset for more detailed level study.
+
+
 
 <h2> <i>Methodology</i></h2> 
 
