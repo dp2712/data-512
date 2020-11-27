@@ -4,7 +4,7 @@ Hence, I would like to explore how COVID-19 severity is related to Patients Medi
 
 
 <h2> <i>Dataset information</i></h2> 
-This dataset is published by Mexican governement and updated on the daily basis. The data includes details about COVID-19 patients in Mexico and contains information such as Age, Gender, data of first covid symptom, date of entry to the hospital, patient's medical history, and whether patient died or recovered. <b> This dataset is published in Spanish language and due to time constraints and lack of Spanish language knowledge, I will be utilizing the dataset that was translated, cleand and published as a Kaggle dataset. The links to Raw Datasource, Cleaned Dataset and Dataset License are below - </b> 
+This dataset is published by Mexican governement and updated on the daily basis. The data includes details about COVID-19 patients in Mexico and contains information such as Age, Gender, data of first covid symptom, date of entry to the hospital, patient's medical history, and whether patient died or recovered. <b> This dataset is published in Spanish language and due to time constraints and lack of Spanish language knowledge, I will be utilizing the dataset that was translated, cleand and published as a Kaggle dataset under the name <i>'COVID-19 patient pre-condition dataset'</i>. The links to Raw Datasource, Cleaned Dataset and Dataset License are below - </b> 
 <h4>Dataset Source :</h4> https://www.gob.mx/salud/documentos/datos-abiertos-152127 
 <h4>Cleaned Dataset Link :</h4> https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
 <h4>Dataset License :</h4> https://creativecommons.org/publicdomain/zero/1.0/ 
