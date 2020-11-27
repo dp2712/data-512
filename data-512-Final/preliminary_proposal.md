@@ -18,8 +18,8 @@ This dataset is appropriate for my analysis as it contains all relevant informat
 </ul>
 
 <h2> <i>Dataset limitations / Unknowns </i></h2> 
-Procuring patient data of COVID-19 patients containing patient-specific information regarding patient history and habits is extremely hard. This is mainly due to the regulatory security laws such as HIPAA and GDPR which makes it almost impossible for anyone to get hands-on PHI data. The dataset was released by the Mexican government which contains a huge number of anonymised patient-related information.
+As patient's information is a critical and sensitive, obtaining such level of detailed dataset in USA is not possible due to regulatory security laws such as HIPAA and GDPR laws that protect PHI data. Hence this analysis can only be done on population of Mexico as the data was released by Mexican governement for research and study purpose. This dataset has patient's information which anonimized and patient level details are protected. 
 
 
 
-<h4>Ethical considerations of dataset</h4> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and ananimization 
+<h4>Ethical considerations of dataset</h4> - As this dataset contains PII information of patients and each individual can easily be identified with their medical history pattern, it is imporatnt to hadle this data with great care and anonimization 
